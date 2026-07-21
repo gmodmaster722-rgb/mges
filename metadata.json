@@ -1,0 +1,6 @@
+{
+  "name": "Neon Strike 3D",
+  "description": "A high-octane 3D real-time multiplayer mobile shooter with advanced physics integration, dynamic weapon selection, and immersive cyberpunk graphics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
